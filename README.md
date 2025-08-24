@@ -1,4 +1,5 @@
 # Stacks Anon Vote (Testnet)
+Latest update: minor README tweak for submission check.
 
 A minimal Stacks dApp that:
 - Connects a Leather wallet (Testnet)
